@@ -1,0 +1,38 @@
+{
+  "name": "AssignmentDemoRailsApplication",
+  "version": "1.0.0",
+  "description": "Super Important Demo Challenge Code.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "erb": "^1.3.0-hf.1",
+    "erg": "^1.0.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "html": "^1.0.0",
+    "http": "0.0.0",
+    "httpd": "0.0.2",
+    "jade": "^1.11.0",
+    "pug": "^2.0.4",
+    "ruby": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atvenu/AssignmentDemoRailsApplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atvenu/AssignmentDemoRailsApplication/issues"
+  },
+  "homepage": "https://github.com/atvenu/AssignmentDemoRailsApplication#readme"
+}
